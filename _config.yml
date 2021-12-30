@@ -1,7 +1,7 @@
-site: Personal Jekyll Theme
+site: Brandon Jimenez
 
-url: 
-baseurl: 
+url: https://brandon-jimenez.github.io/
+baseurl: https://brandon-jimenez.github.io/resume.v2/
 
 collections:
   pages:
