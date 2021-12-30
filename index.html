@@ -7,6 +7,8 @@ featured_image: /images/demo/home.jpg
 
 <section class="hero">
 
+	{% include socials.html %}
+	
 	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
 		<div class="hero__overlay"></div>
 	</div>
@@ -114,9 +116,6 @@ featured_image: /images/demo/home.jpg
 				</ul>
 				</li>
 				</ul>
-
-
-		{% include socials.html %}
 
 	</div>
 
